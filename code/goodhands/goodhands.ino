@@ -27,7 +27,7 @@ CapacitiveSensor   pointerSensor = CapacitiveSensor(2,10);  // Sensing between p
 
 // Output pins
 int pinkyOutput   = 5; 
-int ringOuptut    = 7; 
+int ringOutput    = 7; 
 int middleOutput  = 9; 
 int pointerOutput = 11; 
 
