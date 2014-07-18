@@ -15,6 +15,7 @@ There are various applications of this kind of wearable:
 Of these, the sign language application is the major motivation as it could provide meaningful quality of life improvements for some people. Part of the GoodHands project will include a simple Android Application to teach the American Sign Language alphabet.
 
 Note that while some of these applications can be achieve with remote motion sensors (such as Kinect) or through gesture detectors, this is designed to be used in an arbitrary location and be sensitive to very detailed finger configurations.
+As such, the glove needs to be entirely self contained and work in any orientation or environment, making the use of external cameras impractical.
 
 Technical Components
 -----
