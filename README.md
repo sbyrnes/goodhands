@@ -1,5 +1,5 @@
-GoodHands
-=========
+![GoodHands Logo](https://raw.githubusercontent.com/sbyrnes/goodhands/master/images/goodhands.png)
+
 
 A prototype glove for controlling mobile applications via finger movements. Currently in prototyping stages.
 
@@ -28,4 +28,4 @@ Challenges
 Challenges are significant for any hardware project. In this particular case, major challenges that need to be investigated and overcome include:
  * Finding a sensor type that is small enough and cheap enough to create a sensor matrix throughout a glove. Initial investigation has centered on capacitive sensors which are promising but may not work in real world applications.
  * Enabling Bluetooth Low Energy (BLE) communication between the glove and the phone at a reasonable price point. There is a lack of well supported BLE shields for Arduino (at least as identified so far).
- * Ensuring that the glove, when done, does not meaningfully impede normal behavior and/or feeling. 
+ * Ensuring that the glove, when done, does not meaningfully impede normal behavior and/or feeling.
