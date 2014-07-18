@@ -5,8 +5,8 @@
  * https://github.com/sbyrnes/goodhands
  * Author: Sean Byrnes, Fogstack Software
  * 
- * Based on CapitiveSense Library Demo Sketch by Paul Badger 
- * (http://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense)
+ * Requires the CapacitiveSensor library from Paul Badger and Paul Stoffregen.
+ 8 https://github.com/PaulStoffregen/CapacitiveSensor
  *
  * The CapacitiveSensor Library works by creating changes in the voltage between two pins and measuring the
  * delay between when the voltage is changed on the send pin and received on the sensor pin. With no capacitance
