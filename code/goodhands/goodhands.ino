@@ -50,7 +50,7 @@ void setup()
   Serial.begin(9600);
 }
 
-long kMinimumThreshold = 500;
+long kMinimumThreshold = 50;
 
 /** Main Arduino Loop **/
 void loop()                    

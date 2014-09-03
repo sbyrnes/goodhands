@@ -3,6 +3,10 @@
 
 A prototype glove for controlling mobile applications via finger movements. Currently in prototyping stages.
 
+View the v0.1 prototype demonstration video on YouTube:
+
+[![Demo Video](https://raw.githubusercontent.com/sbyrnes/goodhands/master/images/video.jpg)](http://youtu.be/GGprRN6T35Y)
+
 Project Goals
 -----
 The goal of the GoodHands project is to create a glove which, using multiple sensors, allows the user to communicate with their phone using various finger positions and movements.
